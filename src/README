@@ -1,0 +1,13 @@
+########## Usage of source code files:
+#
+###
+IC_creat.cpp(*): create the initial conditions, assembly from DICE, agama et al.
+DICE.cpp(*): the dice part.
+Agama.cpp(*): the agama part.
+GALACTIC.cpp(*): the galactic part.
+ICconvert.cpp(-): transform between different IC format, .g2, g3, .hdf5, .txt(single), .binary.
+ICviewer.cpp(*): the quantification and visualization of initial conditions.
+
+*: means the editing not started
+-: means the source code finished partially
+
